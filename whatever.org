@@ -3,4 +3,4 @@ Adding some text here
 
 I have a new branch
 
-This is something with something 2
+This is something with something 2 something 3 merge conflict here

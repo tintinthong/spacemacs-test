@@ -4,3 +4,5 @@ Adding some text here
 I have a new branch
 
 This is something with something 2
+
+Oh hi this line should conflict

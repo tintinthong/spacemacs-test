@@ -2,3 +2,5 @@
 Adding some text here
 
 I have a new branch
+
+Something had happened

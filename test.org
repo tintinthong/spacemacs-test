@@ -1,6 +1,26 @@
 
 
 * Tasks
-  This is some possible task
-  
-new staged comit
+  Some text is here
+** First bullet
+   This is text underneath a bullet
+   1. Hello 
+   2. This is a numbered list
+   3. This is a numbered list
+** Second bullet bullet 
+** Tables 
+   | Col1     | Col2 | Col3 |
+   |          |      |      |
+   | Data     |      |      |
+   |          |      |      |
+   | Whatever |      |      |
+** Tasks 
+*** TODO this is a task  
+*** TODO this is a task [0/5] [0%]
+    - [ ] Subtask 1
+    - [ ] Subtask 1
+    - [ ] Subtask 1
+    - [ ] Subtask 1
+    - [ ] Subtask 1
+    
+   
